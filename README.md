@@ -1,4 +1,4 @@
-# codedamn - Multiverse Photo Gallery Project
+# Quote Generator App Project
 
 ![Design for the project](https://raw.githubusercontent.com/Subramanyarao11/quote-gen-app/main/Desktop%20Demo.jpg)
 
@@ -38,4 +38,4 @@ Remember, if you're looking for feedback on your solution, be sure to ask questi
 
 ## Send feedback!
 
-I love receiving feedback! So if you have anything you'd like to mention, please visit [codedamn feedback page](https://codedamn.com/user/subramanya11)
+I love receiving feedback! So if you have anything you'd like to mention, please visit [Profile](https://codedamn.com/user/subramanya11)
